@@ -1,6 +1,6 @@
 # To Do List App React 
 
-To Do List App React JS by WebStylePress (Add, Edit, Update, Delete, Toggle Tasks)
+To Do List App React JS by Khalil HARIR (Add, Edit, Update, Delete, Toggle Tasks)
 
 ## How to Use
 
